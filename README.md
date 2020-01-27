@@ -13,7 +13,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 
 [What is Data Science](https://github.com/IndraniMandal/ds/blob/master/notes/01-What-is-Data-Science.pdf)<br>
 [Python Programming 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/02-python-programming-1.pdf)<br>
-[Python Programming 2](https://github.com/lutzhamel/ds/blob/master/notes/03-python-programming-2.pdf)<br>
+[Python Programming 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/03-python-programming-2.pdf)<br>
 [Jupyter Notebooks](https://github.com/lutzhamel/ds/blob/master/notes/04-notebooks.pdf)<br>
 [Processing Pipeline](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/05-processing-pipeline.ipynb)<br>
 [Machine Learning Basics 1](https://github.com/lutzhamel/ds/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
