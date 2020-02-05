@@ -18,11 +18,11 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Processing Pipeline](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/05-processing-pipeline.ipynb)<br>
 [Machine Learning Basics 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
 [Machine Learning Basics 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-machine-learning-basics-2.ipynb)<br>
-[Data Manipulation with Pandas](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/08-data-manipulation-pandas.ipynb)<br>
-[Visualization](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/09-visualization.ipynb)<br>
-[Models 1](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/10-models.ipynb)<br>
-[Models 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/11-models-2.ipynb)<br>
-[Models 3](https://github.com/lutzhamel/ds/blob/master/notes/12-models-3.pdf)<br>
+[Data Manipulation with Pandas](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/08-data-manipulation-pandas.ipynb)<br>
+[Visualization](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/09-visualization.ipynb)<br>
+[Models 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/10-models.ipynb)<br>
+[Models 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/11-models-2.ipynb)<br>
+[Models 3](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12-models-3.pdf)<br>
 [K Nearest Neighbor](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/13-KNN.ipynb)<br>
 [Neural Networks 1](https://github.com/lutzhamel/ds/blob/master/notes/14-ANN.pdf)<br>
 [Neural Networks 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/15-ANN-2.ipynb)<br>
