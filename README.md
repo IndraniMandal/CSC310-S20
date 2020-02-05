@@ -17,7 +17,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Jupyter Notebooks](https://github.com/lutzhamel/ds/blob/master/notes/04-notebooks.pdf)<br>
 [Processing Pipeline](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/05-processing-pipeline.ipynb)<br>
 [Machine Learning Basics 1](https://github.com/lutzhamel/ds/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
-[Machine Learning Basics 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/07-machine-learning-basics-2.ipynb)<br>
+[Machine Learning Basics 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-machine-learning-basics-2.ipynb)<br>
 [Data Manipulation with Pandas](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/08-data-manipulation-pandas.ipynb)<br>
 [Visualization](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/09-visualization.ipynb)<br>
 [Models 1](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/10-models.ipynb)<br>
