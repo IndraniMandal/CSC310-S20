@@ -18,7 +18,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Processing Pipeline](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/05-processing-pipeline.ipynb)<br>
 [Machine Learning Basics 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
 [Machine Learning Basics 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-machine-learning-basics-2.ipynb)<br>
-[dtreeviz code](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-Machine-learning-2-%20dtreeviz.ipynb.ipynb)
+[dtreeviz code](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-Machine-learning-2-%20dtreeviz.ipynb.ipynb)<br>
 [Data Manipulation with Pandas](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/08-data-manipulation-pandas.ipynb)<br>
 [Visualization](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/09-visualization.ipynb)<br>
 [Models 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/10-models.ipynb)<br>
