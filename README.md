@@ -23,8 +23,8 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Visualization](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/09-visualization.ipynb)<br>
 [Models 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/10-models.ipynb)<br>
 [Models 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/11-models-2.ipynb)<br>
-[Models 3](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12-models-3.pdf)<br>
-[Models 3.5](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12_models_3.5.ipynb)<br>
+[Models 3(bootstrapping)](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12-models-3.pdf)<br>
+[Models 3(Confidance interval)](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12_models_3.5.ipynb)<br>
 [K Nearest Neighbor](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/13-KNN.ipynb)<br>
 [Neural Networks 1](https://github.com/lutzhamel/ds/blob/master/notes/14-ANN.pdf)<br>
 [Neural Networks 1.5](https://www.slideshare.net/databricks/introduction-to-neural-networks-122033415?from_action=save)<br>
