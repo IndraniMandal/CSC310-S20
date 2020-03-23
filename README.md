@@ -28,6 +28,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [K Nearest Neighbor](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/13-KNN.ipynb)<br>
 [Neural Networks 1](https://github.com/lutzhamel/ds/blob/master/notes/14-ANN.pdf)<br>
 [Neural Networks 1.5](https://www.slideshare.net/IndraniMandal1/clipboards/neural-networks)<br>
+[Neural Networks 1.5(Backpropagation)](https://www.slideshare.net/Simplilearn/backpropagation-and-gradient-descent-in-neural-networks-neural-network-tutorial-simplilearn?qid=d1cb16b5-17ac-4c2c-b393-27a95da2df2e&v=&b=&from_search=2)<br>
 [Neural Networks 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/15-ANN-2.ipynb)<br>
 [Regression 1](https://github.com/lutzhamel/ds/blob/master/notes/16-regression.pdf)<br>
 [Regression 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/16a-regression.ipynb)<br>
