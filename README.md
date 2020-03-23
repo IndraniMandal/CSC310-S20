@@ -27,7 +27,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Models 3(Confidance interval)](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12_models_3.5.ipynb)<br>
 [K Nearest Neighbor](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/13-KNN.ipynb)<br>
 [Neural Networks 1](https://github.com/lutzhamel/ds/blob/master/notes/14-ANN.pdf)<br>
-[Neural Networks 1.5](https://www.slideshare.net/databricks/introduction-to-neural-networks-122033415?from_action=save)<br>
+[Neural Networks 1.5](https://www.slideshare.net/IndraniMandal1/clipboards/neural-networks)<br>
 [Neural Networks 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/15-ANN-2.ipynb)<br>
 [Regression 1](https://github.com/lutzhamel/ds/blob/master/notes/16-regression.pdf)<br>
 [Regression 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/16a-regression.ipynb)<br>
