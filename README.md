@@ -44,4 +44,5 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Databases](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/20-databases.ipynb)<br>
 [Deep Learning](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/22-deep-learning.ipynb)<br>
 [Cloud Computing](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/23-cloud-computing.ipynb)<br>
+[Cloud Computing Ex](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/23-cloud-computing.ipynb)<br>
 [Report Writing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/21-report-writing.ipynb)<br>
