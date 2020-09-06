@@ -20,8 +20,8 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 
 ### The Basics
 [Processing Pipeline](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/05-processing-pipeline.ipynb)<br>
-[Machine Learning Basics 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
-[Machine Learning Basics 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-machine-learning-basics-2.ipynb)<br>
+[Machine Learning Basics: Decision Trees](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
+[Machine Learning Basics: Model Accuracy](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-machine-learning-basics-2.ipynb)<br>
 [dtreeviz code](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-Machine-learning-2-%20dtreeviz.ipynb.ipynb)<br>
 [Data Manipulation with Pandas](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/08-data-manipulation-pandas.ipynb)<br>
 [Visualization](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/09-visualization.ipynb)<br>
@@ -30,7 +30,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Models 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/10-models.ipynb)<br>
 [Models 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/11-models-2.ipynb)<br>
 [Models 3(bootstrapping)](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12-models-3.pdf)<br>
-[Models 3(Confidance interval)](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12_models_3.5.ipynb)<br>
+[Confidance interval](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12_models_3.5.ipynb)<br>
 [K Nearest Neighbor](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/13-KNN.ipynb)<br>
 [Neural Networks 1](https://github.com/lutzhamel/ds/blob/master/notes/14-ANN.pdf)<br>
 [Neural Networks 1.5](https://www.slideshare.net/IndraniMandal1/clipboards/neural-networks)<br>
