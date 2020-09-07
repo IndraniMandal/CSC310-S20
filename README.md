@@ -19,7 +19,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Jupyter Notebooks](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/04-notebooks.pdf)<br>
 
 ### The Basics
-[Processing Pipeline](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/05-processing-pipeline.ipynb)<br>
+[Processing Pipeline](https://github.com/IndraniMandal/CSC310-S20/blob/master/05-processing-pipeline.ipynb)<br>
 [Machine Learning Basics: Decision Trees](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
 [Machine Learning Basics: Model Accuracy](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-machine-learning-basics-2.ipynb)<br>
 [dtreeviz code](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-Machine-learning-2-%20dtreeviz.ipynb.ipynb)<br>
