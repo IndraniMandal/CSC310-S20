@@ -28,7 +28,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 
 ### Machine Learning
 [Models of Data: Classification & Regression](https://github.com/IndraniMandal/CSC310-S20/blob/master/10-models.ipynb)<br>
-[Evaluating Models](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/11-models-2.ipynb)<br>
+[Evaluating Models](https://github.com/IndraniMandal/CSC310-S20/blob/master/11-models-2.ipynb)<br>
 [Confidance interval](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/12_models_3.5.ipynb)<br>
 [K Nearest Neighbor](https://github.com/IndraniMandal/CSC310-S20/blob/master/13_KNN.ipynb)<br>
 [Neural Networks 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/14-ANN.pdf)<br>
