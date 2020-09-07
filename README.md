@@ -35,11 +35,11 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Neural Networks 1.5](https://www.slideshare.net/IndraniMandal1/clipboards/neural-networks)<br>
 [Backpropagation](https://www.slideshare.net/Simplilearn/backpropagation-and-gradient-descent-in-neural-networks-neural-network-tutorial-simplilearn?qid=d1cb16b5-17ac-4c2c-b393-27a95da2df2e&v=&b=&from_search=2)<br>
 [Backpropagation Demo](https://hmkcode.com/ai/backpropagation-step-by-step/)<br>
-[Neural Networks 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/15-ANN-2.ipynb)<br>
+[Neural Networks 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/15_ANN_2.ipynb)<br>
 [Regression 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/16-regression.pdf)<br>
-[Regression 2](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/16a-regression.ipynb)<br>
+[Regression 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/16a_regression.ipynb)<br>
 [Unsupervised Learning 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/17-unsupervised-learning.pdf)<br>
-[Unsupervised Learning 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/17a-unsupervised-learning.ipynb)<br>
+[Unsupervised Learning 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/17a_unsupervised_learning.ipynb)<br>
 
 ### Environments and Applications
 [Natural Language Processing 1](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/18a-NLP.ipynb)<br>
