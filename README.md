@@ -21,7 +21,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 ### The Basics
 [Processing Pipeline](https://github.com/IndraniMandal/CSC310-S20/blob/master/05-processing-pipeline.ipynb)<br>
 [Machine Learning Basics: Decision Trees](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/06-machine-learning-basics-1.pdf)<br>
-[Machine Learning Basics: Model Accuracy](https://github.com/IndraniMandal/CSC310-S20/blob/master/07-machine-learning-basics-2.ipynb)<br>
+[Machine Learning Basics: Model Accuracy](https://github.com/IndraniMandal/CSC310-S20/blob/master/07_machine_learning_basics_2.ipynb)<br>
 [dtreeviz code](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-Machine-learning-2-%20dtreeviz.ipynb.ipynb)<br>
 [Data Manipulation with Pandas](https://github.com/IndraniMandal/CSC310-S20/blob/master/08-data-manipulation-pandas.ipynb)<br>
 [Visualization](https://github.com/IndraniMandal/CSC310-S20/blob/master/09-visualization.ipynb)<br>
