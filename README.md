@@ -55,3 +55,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 
 ### The Last Word
 [Report Writing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/21-report-writing.ipynb)<br>
+
+### Data Sets
+[The UCI Data Repository](https://archive.ics.uci.edu/ml/datasets.php) -- lots of nice data sets!<br>
+[R Datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) -- another nice source of data!<br>
