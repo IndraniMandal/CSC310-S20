@@ -54,7 +54,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Cloud Computing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/23-cloud-computing.ipynb)<br>
 
 ### The Last Word
-[Report Writing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/21-report-writing.ipynb)<br>
+[Report Writing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/24-report-writing.ipynb)<br>
 
 ### Data Sets
 [The UCI Data Repository](https://archive.ics.uci.edu/ml/datasets.php) -- lots of nice data sets!<br>
