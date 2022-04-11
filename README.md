@@ -39,7 +39,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Neural Networks 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/15_ANN_2.ipynb)<br>
 [Support Vector Machine](https://github.com/IndraniMandal/CSC310-S20/blob/master/Support_Vector_Machines.ipynb)<br>
 [Regression 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/16-regression.pdf)<br>
-[Regression 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/16a_regression.ipynb)<br>
+[Regression 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/16a-regression.ipynb)<br>
 [Unsupervised Learning 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/17-unsupervised-learning.pdf)<br>
 [Unsupervised Learning 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/17a_unsupervised_learning.ipynb)<br>
 
