@@ -47,7 +47,8 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Natural Language Processing 1](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/18a-NLP.ipynb)<br>
 [Natural Language Processing 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/19-NLP-2.pdf)<br>
 [Natural Language Processing 3](https://github.com/IndraniMandal/CSC310-S20/blob/master/19a_NLP_2.ipynb)<br>
-[Natural Language Processing 4](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)<br>
+[Natural Language Processing 4](https://github.com/IndraniMandal/CSC310-S20/blob/master/19a_NLP_3.ipynb)<br>
+[Natural Language Processing 5](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)<br>
 [Natural Language Processing Naive Bayes](https://www.slideshare.net/IndraniMandal1/clipboards/naive-bayes)<br>
 [Databases](https://github.com/IndraniMandal/CSC310-S20/blob/master/20-databases.ipynb)<br>
 [Deep Learning](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/22-deep-learning.ipynb)<br>
