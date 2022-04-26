@@ -51,7 +51,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Natural Language Processing 5](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)<br>
 [Natural Language Processing Naive Bayes](https://www.slideshare.net/IndraniMandal1/clipboards/naive-bayes)<br>
 [Databases](https://github.com/IndraniMandal/CSC310-S20/blob/master/20-databases.ipynb)<br>
-[Deep Learning](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/22-deep-learning.ipynb)<br>
+[Deep Learning](https://github.com/IndraniMandal/CSC310-S20/blob/master/22_deep_learning.ipynb)<br>
 [Cloud Computing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/23-cloud-computing.ipynb)<br>
 
 ### Getting Started
@@ -59,7 +59,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)<br>
 
 ### The Last Word
-[Report Writing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/24-report-writing.ipynb)<br>
+[Report Writing](https://github.com/IndraniMandal/CSC310-S20/blob/master/24_report_writing.ipynb)<br>
 
 ### Data Sets
 [The UCI Data Repository](https://archive.ics.uci.edu/ml/datasets.php) -- lots of nice data sets!<br>
