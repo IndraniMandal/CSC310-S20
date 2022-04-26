@@ -54,11 +54,14 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Deep Learning](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/22-deep-learning.ipynb)<br>
 [Cloud Computing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/23-cloud-computing.ipynb)<br>
 
-### Systems
+### Getting Started
 [Systems](https://github.com/IndraniMandal/CSC310-S20/blob/master/26_system.ipynb)<br>
+[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)<br>
+
 ### The Last Word
 [Report Writing](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/24-report-writing.ipynb)<br>
 
 ### Data Sets
 [The UCI Data Repository](https://archive.ics.uci.edu/ml/datasets.php) -- lots of nice data sets!<br>
 [R Datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) -- another nice source of data!<br>
+[kaggle Datasets](https://www.kaggle.com/datasets) -- data science competition site, lots of data sets!
