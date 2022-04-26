@@ -44,7 +44,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Unsupervised Learning 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/17a_unsupervised_learning.ipynb)<br>
 
 ### Environments and Applications
-[Natural Language Processing 1](https://nbviewer.jupyter.org/github/lutzhamel/ds/blob/master/notes/18a-NLP.ipynb)<br>
+[Natural Language Processing 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/18a_NLP.ipynb)<br>
 [Natural Language Processing 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/19-NLP-2.pdf)<br>
 [Natural Language Processing 3](https://github.com/IndraniMandal/CSC310-S20/blob/master/19a_NLP_2.ipynb)<br>
 [Natural Language Processing 4](https://github.com/IndraniMandal/CSC310-S20/blob/master/19a_NLP_3.ipynb)<br>
