@@ -57,6 +57,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 ### Getting Started
 [Systems](https://github.com/IndraniMandal/CSC310-S20/blob/master/26_system.ipynb)<br>
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)<br>
+[Accessing Data](https://github.com/IndraniMandal/CSC310-S20/blob/master/03_accessing_data.ipynb)<br>
 
 ### The Last Word
 [Report Writing](https://github.com/IndraniMandal/CSC310-S20/blob/master/24_report_writing.ipynb)<br>
