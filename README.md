@@ -24,7 +24,6 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Machine Learning Basics: Model Accuracy](https://github.com/IndraniMandal/CSC310-S20/blob/master/07_machine_learning_basics_2.ipynb)<br>
 [dtreeviz code](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/07-Machine-learning-2-%20dtreeviz.ipynb.ipynb)<br>
 [Data Manipulation with Pandas](https://github.com/IndraniMandal/CSC310-S20/blob/master/08_data_manipulation_pandas.ipynb)<br>
-[Web Scraping](https://github.com/IndraniMandal/CSC310-S20/blob/master/college_covid_data_scaper_version_1_1.ipynb)<br>
 [Visualization](https://github.com/IndraniMandal/CSC310-S20/blob/master/09_visualization.ipynb)<br>
 
 ### Machine Learning
@@ -38,7 +37,6 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Backpropagation Demo](https://hmkcode.com/ai/backpropagation-step-by-step/)<br>
 [Neural Networks 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/15_ANN_2.ipynb)<br>
 [Support Vector Machine](https://github.com/IndraniMandal/CSC310-S20/blob/master/Support_Vector_Machines.ipynb)<br>
-[Regression 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/notes/16-regression.pdf)<br>
 [Regression 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/16a-regression.ipynb)<br>
 [Unsupervised Learning 2](https://github.com/IndraniMandal/CSC310-S20/blob/master/17a_unsupervised_learning.ipynb)<br>
 
