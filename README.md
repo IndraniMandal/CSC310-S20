@@ -30,7 +30,7 @@ The content of these notebooks is released under the [CC-BY-NC-ND license](https
 [Models of Data: Classification & Regression](https://github.com/IndraniMandal/CSC310-S20/blob/master/10-models.ipynb)<br>
 [Evaluating Models](https://github.com/IndraniMandal/CSC310-S20/blob/master/11-models-2.ipynb)<br>
 [Confidance interval](https://github.com/IndraniMandal/CSC310-S20/blob/master/12-models-3.ipynb)<br>
-[K Nearest Neighbor](https://github.com/IndraniMandal/CSC310-S20/blob/master/13_KNN.ipynb)<br>
+[K Nearest Neighbor](https://github.com/IndraniMandal/CSC310-S20/blob/master/kNN.ipynb)<br>
 [Neural Networks 1](https://github.com/IndraniMandal/CSC310-S20/blob/master/14-ANN.pdf)<br>
 [Neural Networks 1.5](https://www.slideshare.net/IndraniMandal1/clipboards/neural-networks)<br>
 [Backpropagation](https://www.slideshare.net/Simplilearn/backpropagation-and-gradient-descent-in-neural-networks-neural-network-tutorial-simplilearn?qid=d1cb16b5-17ac-4c2c-b393-27a95da2df2e&v=&b=&from_search=2)<br>
